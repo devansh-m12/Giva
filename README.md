@@ -42,3 +42,8 @@ The codebase is organized into models, controllers, and routes. The `models` dir
 ## License
 
 This project is licensed under the MIT License.
+
+## Contributors
+
+- Devansh Mahant
+- Your Name Here
